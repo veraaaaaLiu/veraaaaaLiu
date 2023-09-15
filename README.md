@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yi-ling-liu-vera)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:veraaaaaliuuuuu@gmail.com@gmail.com)
 
-## I'm a Front-end Developer 5y+ and Freelance Developer 3y+
+- ⚡ I'm a Front-end Developer 5y+ and Freelance Developer 3y+.
 - 🌱 I'm currently Learning web3.
 
 
