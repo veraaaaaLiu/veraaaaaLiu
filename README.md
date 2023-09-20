@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:veraaaaaliuuuuu@gmail.com@gmail.com)
 
 - ⚡ I'm a Front-end Developer 5y+ and a Freelance Developer 3y+.
-- 🌱 I'm currently Learning web3 and react.
+- 🌱 I'm currently learning web3 and react.
 
 
 <hr>
